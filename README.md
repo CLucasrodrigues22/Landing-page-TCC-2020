@@ -1,3 +1,3 @@
-# hotsite-pi2020
+# hotsite-pi-2020
 
 Landing page para apresentação do projetode conclusão de curso de TI Senac-DF 2020
