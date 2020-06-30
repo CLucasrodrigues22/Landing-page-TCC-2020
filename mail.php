@@ -2,7 +2,7 @@
 
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
-        $mail_to = "USEREMAIL@gmail.com";
+        $mail_to = "c.lucasrodrigues22@gmail.com";
         
         $subject = trim($_POST["subject"]);
         $name = str_replace(array("\r","\n"),array(" "," ") , strip_tags(trim($_POST["name"])));
